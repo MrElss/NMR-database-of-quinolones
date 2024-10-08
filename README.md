@@ -1,0 +1,1 @@
+This repository contains an NMR database of 42 quinolones, based on experimentally obtained values. The database is designed for use with MixONat, a software tool for NMR analysis. MixONat is available for free download at https://sourceforge.net/projects/mixonat/.
